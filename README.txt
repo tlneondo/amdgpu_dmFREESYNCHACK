@@ -1,0 +1,2 @@
+Hacky as hell kernel patch trying to get Freesync working on my LGC2 with a 5700xt
+additionally added Debug messages to different stages so I can see what the kernel thinks of my hacked to hell Displayport adapter
